@@ -1,0 +1,44 @@
+body{
+    background:linear-gradient(#f4c2c2 0%, white 100%);
+    text-align: center;
+}
+.top{
+    font-size: 100;
+    font-family: 'Are You Serious', cursive;
+
+}
+.menu{
+    list-style:none;
+    position:absolute;
+    right:30px;
+    top:10px;
+    cursor: pointer;
+    font-family: fantasy;
+    font-size:20px;
+    z-index: 10;
+}
+
+.links{
+   float:left;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right:9px;
+    padding-bottom:5px;
+
+        
+}
+.kidsimg{
+    height:200px;
+    border-radius:50%;
+    border: black solid;
+
+}
+
+.paragraph{
+    padding-top:20px;
+    padding-left:500px;
+    padding-right:500px;
+    font-family:serif;
+    font-size:18px;
+    line-height: 2;
+}
